@@ -1,5 +1,6 @@
 
 /********** Base styles **********/
+
 * {
   box-sizing: border-box;
   font-family: Helvetica;
@@ -47,6 +48,16 @@ p {
 /* Simple Responsive Framework. */
 .row {
   width: 100%;
+}
+
+#Chicken {
+  background-color: #ff9999;
+}
+#Beef {
+  background-color: #ff3333;
+}
+#Sushi {
+  background-color: #ffcc66;
 }
 
 /********** Desktop Devices **********/
