@@ -1,8 +1,50 @@
-.row {
-	margin-bottom: 15px;
+#collapsable-nav a {
+	text-align: center;
 }
 
-.row > div {
-	border: 2px solid red;
-	background-color: gray;
+.mainContent {
+	padding-top: : 25px ;
+}
+
+
+h1 {
+	padding: 20px;
+}
+
+
+.navbar {
+	padding: 0;
+	border-top: 2px solid black;
+	border-bottom: 2px solid black;
+}
+
+.container-fluid {
+	background-color: lightgray;
+	padding-top: 0.5rem;
+	/*padding-bottom: 0.5rem;*/
+	padding-left: 0;
+	padding-right: 0;
+}
+
+.navbar-brand {
+	font-size: 2.6rem;
+	margin-left: 2rem;
+}
+
+.navbar-toggler {
+	margin-right: 2rem;
+}
+
+#food-details {
+	background-color: lightgray;
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 15px;
+}
+
+.nav-item {
+	background-color: white;
+	border-top: 1px solid black;
+	border-bottom: 1px solid black;
 }
